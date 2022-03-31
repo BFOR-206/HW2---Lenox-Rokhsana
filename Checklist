@@ -1,0 +1,22 @@
+#1. Summarize the data (4 points)
+
+Which subreddit has the most posts (top 5)?
+Which user has the most posts (top 5)?
+Which subreddit has the most distinct post authors?
+Which subreddit contains the greatest percentage of posts with a post body (i.e. contains a value in the post column)?
+
+
+#2. Visualize the data (4 points)
+
+Plot the total number of posts across all subreddits over time (line plot).
+Plot a histogram showing the distribution of post scores.
+Plot the average number of posts per day of the week.
+Plot the average number of posts per hour of the day.
+
+
+#3. Get insights from the data (4 points)
+
+Which subreddits had the most new posts in the latest 30 days of data (top 5)?
+Does the length of a post title correlate with score of the post?
+What are the top 20 words used in post titles?
+What are the top 10 most linked website domains?
