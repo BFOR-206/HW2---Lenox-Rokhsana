@@ -10,8 +10,8 @@ Which subreddit contains the greatest percentage of posts with a post body (i.e.
 
 Plot the total number of posts across all subreddits over time (line plot).
 Plot a histogram showing the distribution of post scores.
-Plot the average number of posts per day of the week.
-Plot the average number of posts per hour of the day.
+Plot the number of posts per day of the week.
+Plot the number of posts per hour of the day.
 
 
 #3. Get insights from the data (4 points)
